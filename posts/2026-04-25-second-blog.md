@@ -14,7 +14,7 @@ Now that we have chosen our concept by consolidating the best features from each
 
 ## User Journey and its Requirements
 
-![User Journey](/Users/maia/Desktop/Advanced Web Design/DEV-BLOG/assets/Images/User-Flow.png)
+![User Journey](/assets/Images/User-Flow.png)
 
 **Stage 1:** The user will begin by posting a pitch where they will add their own title, short description where the system must enforce a 300 character limit to encourage users to be concise in order to keep the feed readable, pre-set tag and who they need for the project. The system will need around 5-10 pre-set tags (design, portfolio, tech, etc) opening the opportunity to introduce filters as a ‘nice to have’ feature down the line. The system must then allow the pitch owner to specify up to 3 collaborator roles. Once these are all completed the pitch needs to be stored in the database and immediately appear on the discovery page once submitted.
 
