@@ -22,6 +22,6 @@ They also came up with a project builder hub where people don’t just talk abou
 ## Choosing our Best Idea
 Though we thought my idea was exciting and creative, through discussion I realised that with our current knowledge of coding and the tech stacks audio files would be very difficult for us to deal with, as it would eat up most of our time leaving us with little time to focus on the important features and making those successful. We also really liked the indie game review community but what turned us away from this idea was its main focus being reviews, we thought its need in today’s age is not evident enough for our hub to seem appealing and have a competitive advantage. Therefore the project builder ended up being the idea we are going to stick with and build upon as it is feasible within the techstack, we can all relate to it and have felt we would actually use this site ourselves.
 
-![Comparison Table](/assets/Images/Comparison-table.png)
+![Comparison Table](https://github.com/maiaa9/DEV-BLOG/blob/main/assets/Images/Comparison-table.png)
 
 
