@@ -1,13 +1,12 @@
 ---
 title: Understanding the Brief and Ideating
-date: 2026-05-13
+date: 2026-04-18
 author: Maia Allan
 summary: The first blog where I understand the brief and explain our ideation process.
 tags:
   - Planning
   - Ideation
 ---
-# Understanding the Brief and Ideating
 
 ## Understanding the Brief
 My understanding of the brief is that we are tasked to create an online community hub responsive to both desktop and mobile, where members who have common interests can interact with our site where they can seamlessly share their ideas, find the help they need and connect with like-minded individuals. When comprehending the brief I noticed that we do not have to create a signup system therefore our main focus is to produce strong, efficient and detailed features to maintain perpetual users that appreciate our hub. Amongst this our group also has to consider the functional requirements which include upholding AA compliance standards; where the colour contrast should be 4.5:1 at least, navigation that is consistent, heading structures that are logical and use semantic HTML. We also have to provide explicit consent to users before putting non-essential cookies in place. 
@@ -22,5 +21,7 @@ They also came up with a project builder hub where people don’t just talk abou
 
 ## Choosing our Best Idea
 Though we thought my idea was exciting and creative, through discussion I realised that with our current knowledge of coding and the tech stacks audio files would be very difficult for us to deal with, as it would eat up most of our time leaving us with little time to focus on the important features and making those successful. We also really liked the indie game review community but what turned us away from this idea was its main focus being reviews, we thought its need in today’s age is not evident enough for our hub to seem appealing and have a competitive advantage. Therefore the project builder ended up being the idea we are going to stick with and build upon as it is feasible within the techstack, we can all relate to it and have felt we would actually use this site ourselves.
+
+![Comparison Table](/Users/maia/Desktop/Advanced Web Design/DEV-BLOG/assets/Images/Comparison-table.png)
 
 
