@@ -14,7 +14,7 @@ Now that we have chosen our concept by consolidating the best features from each
 
 ## User Journey and its Requirements
 
-![User Journey](https://github.com/maiaa9/DEV-BLOG/blob/main/assets/Images/User-Flow.png)
+![User Journey](../assets/Images/User-Flow.png)
 
 **Stage 1:** The user will begin by posting a pitch where they will add their own title, short description where the system must enforce a 300 character limit to encourage users to be concise in order to keep the feed readable, pre-set tag and who they need for the project. The system will need around 5-10 pre-set tags (design, portfolio, tech, etc) opening the opportunity to introduce filters as a ‘nice to have’ feature down the line. The system must then allow the pitch owner to specify up to 3 collaborator roles. Once these are all completed the pitch needs to be stored in the database and immediately appear on the discovery page once submitted.
 
@@ -22,7 +22,7 @@ Now that we have chosen our concept by consolidating the best features from each
 
 **Stage 3:** Once the roles have been filled a build checklist will unlock where the owner must be able to add up to 5 checklist items that team members tick off as they go, to provide direction and a timeline for all participants. So all team members must be able to interact with the checklist which will, in turn cause the displayed progress bar to update live when items are ticked. A possible feature we could include is the ability to edit or delete checklist items as the owner and collaborators may realise other jobs are needed to prioritise. 
 
-**Stage 4*:** Once the group has completed the project the team must be able to post it to the public showcase, where the showcase will display the project title, team members names and any badges they have earned. Then any logged-in user must be able to submit a star rating from 1-5 where the team will earn their badges from if they reach an average rating or 3 or above. It could be cool to add the option to react with emoji to complete showcase projects. 
+**Stage 4:** Once the group has completed the project the team must be able to post it to the public showcase, where the showcase will display the project title, team members names and any badges they have earned. Then any logged-in user must be able to submit a star rating from 1-5 where the team will earn their badges from if they reach an average rating or 3 or above. It could be cool to add the option to react with emoji to complete showcase projects. 
 
 
 
