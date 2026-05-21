@@ -4,8 +4,9 @@ date: 2026-04-18
 author: Maia Allan
 summary: The first blog where I understand the brief and explain our ideation process.
 tags:
-  - Planning
+  - The Brief
   - Ideation
+  - Planning
 ---
 
 ## Understanding the Brief

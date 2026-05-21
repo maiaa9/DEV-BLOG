@@ -2,7 +2,7 @@
 title: Sitemap, Wireframes and Domain Driven Design
 date: 2026-05-02
 author: Maia Allan
-summary: My third blog covers sitemaps, wireframes and doman driven design
+summary: My third blog covers sitemaps, wireframes and domain driven design
 tags:
   - Sitemap
   - Wireframes
@@ -10,7 +10,7 @@ tags:
 ---
 
 ## Pages and Sitemap
-Now that we have mapped out our requirements, we need to translate them into actual pages. We have landed on seven pages for our hub as we think that will be enough to cover the user journey without overcomplicating the concept given our timeframe. From a team perspective we thought it would be most practical to cap the hub at seven pages to allow each of us to take lead on two of the pages while coming together on the home feed. Structurally our pages fall into three zones. The home feed sits at the centre of everything, it is the page every user lands on after logging in and the point from which all other pages branch from. This then flows into the discovery pages (post a pitch, pitch details, showcase and profile) which are accessible to any logged in users. Sitting deeper in the structure are the project management pages (applicants and build checklist) that are conditionally accessible if you are locked into a project. The dashed arrow on our sitemap from build checklist to the showcase represents the final handoff where projects will flow to when they are complete. We chose this one-way flow deliberately to keep work separate from active pitches to maintain good usability and readability across the site.
+Now that we have mapped out our requirements we need to translate them into actual pages. We have landed on seven pages for our hub as we think that will be enough to cover the user journey without overcomplicating the concept given our timeframe. From a team perspective we thought it would be most practical to cap the hub at seven pages to allow each of us to take lead on two of the pages while coming together on the home feed. Structurally our pages fall into three zones. The home feed sits at the centre of everything, it is the page every user lands on after logging in and the point from which all other pages branch from. This then flows into the discovery pages (post a pitch, pitch details, showcase and profile) which are accessible to any logged in users. Sitting deeper in the structure are the project management pages (applicants and build checklist) that are conditionally accessible if you are locked into a project. The dashed arrow on our sitemap from build checklist to the showcase represents the final handoff where projects will flow to when they are complete. We chose this one-way flow deliberately to keep work separate from active pitches to maintain good usability and readability across the site.
 
 ![Sitemap](../assets/Images/Sitemap.png)
 
