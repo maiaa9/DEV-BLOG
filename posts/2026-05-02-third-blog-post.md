@@ -33,7 +33,7 @@ After sharing our wireframes as a group we are deciding to follow Kashaypi’s w
 
 ![DDD 1](../assets/Images/DDD%201.png)
 ![DDD 2](../assets/Images/DDD%202.png)
-1[DDD 3](../assets/Images/DDD%203.png)
+![DDD 3](../assets/Images/DDD%203.png)
 
 
 
