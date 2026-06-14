@@ -31,7 +31,7 @@ A major concern that came up when testing on multiple accounts was the complete 
 
 ![Wave Accessibility](../assets/Images/Wave.png)
 
-Our hub’s accessibility ranges from 90 - 96 with the profile page scoring the lowest due to five instances of very low contrast errors which are at risk of not passing the WCAG AA guidelines. We have also made a minor mistake of skipping from h1 to h3 which could confuse screen readers. The overall accessibility of our hub scored very highly; once again there were a few contrast errors that we can easily fix to lift our scores and to perfect them it would be great to introduce full keyboard navigation in the future. Lighthouse scored our best practices 100 on every page as we followed the requirements from the brief and our code quality was high with clean implementation.
+Our hub’s accessibility ranges from 90 - 96 with the profile page scoring the lowest due to five instances of very low contrast errors which are at risk of not passing the WCAG AA guidelines. We have also made a minor mistake of skipping from '<h1>' to '<h3>' which could confuse screen readers. The overall accessibility of our hub scored very highly; once again there were a few contrast errors that we can easily fix to lift our scores and to perfect them it would be great to introduce full keyboard navigation in the future. Lighthouse scored our best practices 100 on every page as we followed the requirements from the brief and our code quality was high with clean implementation.
 
 
 # Functional Requirements
