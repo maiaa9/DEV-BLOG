@@ -7,6 +7,7 @@ tags:
   - Reflection
 ---
 
+
 # Performance
 
 ![Lighthouse Results](../assets/Images/Lighthouse-Results.png)
@@ -28,10 +29,8 @@ A major concern that came up when testing on multiple accounts was the complete 
 
 ## Accessibility 
 ![Wave Accessibility](../assets/Images/Wave.png)
-Our hub’s accessibility ranges from 90 - 96 with the profile page scoring the lowest due to five instances of very low contrast errors which are at risk of not passing the WCAG AA guidelines. We have also made a minor mistake of skipping from <h1> to <h3> which could confuse screen readers. The overall accessibility of our hub scored very highly; once again there were a few contrast errors that we can easily fix to lift our scores and to perfect them it would be great to introduce full keyboard navigation in the future. Lighthouse scored our best practices 100 on every page as we followed the requirements from the brief and our code quality was high with clean implementation.
 
-
-
+Our hub’s accessibility ranges from 90 - 96 with the profile page scoring the lowest due to five instances of very low contrast errors which are at risk of not passing the WCAG AA guidelines. We have also made a minor mistake of skipping from h1 to h3 which could confuse screen readers. The overall accessibility of our hub scored very highly; once again there were a few contrast errors that we can easily fix to lift our scores and to perfect them it would be great to introduce full keyboard navigation in the future. Lighthouse scored our best practices 100 on every page as we followed the requirements from the brief and our code quality was high with clean implementation.
 
 
 # Functional Requirements
@@ -41,6 +40,7 @@ In my previous blog posts I talked about features that our hub must have, should
 Another feature I mentioned in my early blogs as a ‘must have’ were badges for those who received an average star rating of three or above as a way to motivate users. Unfortunately this idea was slightly too ambitious and we did not plan accordingly to offer this as strong enough features for users to earn. In the future we should have looked to implement this feature from the beginning and plan where and what it would look like in our database, rather than trying to add it at the end as a cool extra feature.  
 
 Besides this our core user flow was built and works as intended, users can post a pitch, explore the feed, view pitch details, manage applicants, see their projects and applied projects, share their project to the showcase and give others star ratings. Exactly as we had planned to do so in our original sitemap. 
+
 
 # Lesson learned
 
